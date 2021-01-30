@@ -1,0 +1,1 @@
+resutls for ic models, the adjsutment intercept is calucalted using the most recent 8 obs
